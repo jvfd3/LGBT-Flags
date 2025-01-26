@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path
+    style="fill:none;stroke:#ffffff;stroke-width:.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+    transform="translate(-.877 -.75)"
+    d="M6 11.75V8.5m-1.25 1.75h2.5m.517-6.017L10.25 1.75m-1.77 0h1.77v1.77M8.5 6c0-.69-.28-1.314-.733-1.767A2.502 2.502 0 0 0 3.5 6c0 1.379 1.121 2.5 2.5 2.5S8.5 7.379 8.5 6Z" />
+</svg>

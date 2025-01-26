@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path
+    style="fill:none;stroke:#ffffff;stroke-width:.6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+    transform="translate(-1.25 -.004)"
+    d="M4.25 6h3.5c1.379 0 2.5-1.12 2.5-2.5 0-1.379-1.121-2.5-2.5-2.5h-3.5m-.125 8.125L6 11l1.875-1.875M6 11V1M4.25 7.75h3.5" />
+</svg>
