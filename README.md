@@ -7,3 +7,7 @@ making/searching for all svg LGBT symbols and flags and their Hex colors
 
 - Reddit
   - > my suggestion is regrouping by cathegories: sexual orientations, gender identity, romantic orientations; even an euler-venn diagram would be interesting, considering all the overlappings
+
+## Some sources
+
+- [Joe Hart](https://github.com/JoeHart/pride-flag-api)
