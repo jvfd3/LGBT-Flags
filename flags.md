@@ -56,3 +56,40 @@
 |                                   |    7    | Vincian                        | ![X](./Flags/SVG/Vincian_(original).svg)                       |
 |                                   |    9    | Leather, Latex, and BDSM pride | ![X](./Flags/SVG/Leather,_Latex,_and_BDSM_-_Light.svg)         |
 |                                   |    9    | Queer                          | ![X](./Flags/SVG/Queer.svg)                                    |
+
+## New Sources
+
+| Name               | Year | Image                                   |
+| ------------------ | ---- | --------------------------------------- |
+| agender            | 2014 | ![X](Flags/agender_2014.svg)            |
+| aroace             | 2018 | ![X](Flags/aroace_2018.svg)             |
+| aromantic          | 2014 | ![X](Flags/aromantic_2014.svg)          |
+| asexual            | 2010 | ![X](Flags/asexual_2010.svg)            |
+| bear               | 1995 | ![X](Flags/bear_1995.svg)               |
+| bigender           | 2014 | ![X](Flags/bigender_2014.svg)           |
+| bisexual           | 1998 | ![X](Flags/bisexual_1998.svg)           |
+| gay men            | 2019 | ![X](Flags/gay_men_2019.svg)            |
+| genderfluid        | 2012 | ![X](Flags/genderfluid_2012.svg)        |
+| genderqueer        | 2011 | ![X](Flags/genderqueer_2011.svg)        |
+| intersex           | 2013 | ![X](Flags/intersex_2013.svg)           |
+| intersex Inclusive | 2021 | ![X](Flags/intersexInclusive_2021.svg)  |
+| lesbian labrys     | 1999 | ![X](Flags/labrysLesbian_1999.svg)      |
+| lesbian            | 2010 | ![X](Flags/lesbian_2010.svg)            |
+| lesbian            | 2018 | ![X](Flags/lesbian_2018.svg)            |
+| lesbian            | 2019 | ![X](Flags/lesbian_2019.svg)            |
+| lesbian lipstick   | 2010 | ![X](Flags/lipstick_lesbian_2010.svg)   |
+| nonbinary          | 2014 | ![X](Flags/nonbinary_2014.svg)          |
+| omnisexual         | 2015 | ![X](Flags/omnisexual_2015.svg)         |
+| pangender          | 2015 | ![X](Flags/pangender_2015.svg)          |
+| pansexual          | 2010 | ![X](Flags/pansexual_2010.svg)          |
+| Pride philadelphia | 2017 | ![X](Flags/philadelphiaPride_2017.svg)  |
+| pinkUnionJack      | 2009 | ![X](Flags/pinkUnionJack_2009.svg)      |
+| polysexual         | 2012 | ![X](Flags/polysexual_2012.svg)         |
+| pride (8)          | 1978 | ![X](Flags/pride_1978_eightStripes.svg) |
+| pride (7)          | 1978 | ![X](Flags/pride_1978_sevenStripes.svg) |
+| pride              | 1979 | ![X](Flags/pride_1979.svg)              |
+| Pride progress     | 2018 | ![X](Flags/progressPride_2018.svg)      |
+| sapphic            | 2015 | ![X](Flags/sapphic_2015.svg)            |
+| Pride southAfrica  | 2010 | ![X](Flags/southAfricaPride_2010.svg)   |
+| transgender        | 1999 | ![X](Flags/transgender_1999.svg)        |
+| twink              | 2009 | ![X](Flags/twink_2009.svg)              |

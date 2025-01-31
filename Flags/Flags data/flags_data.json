@@ -1,0 +1,1463 @@
+{
+  "agender_2014": {
+    "name": "Agender",
+    "id": "agender_2014",
+    "year": "2014",
+    "svg": "",
+    "colors": [
+      {
+        "name": "grey",
+        "hexCode": "#b9b9b9",
+        "r": 185,
+        "g": 185,
+        "b": 185
+      },
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "green",
+        "hexCode": "#b8f483",
+        "r": 184,
+        "g": 244,
+        "b": 131
+      }
+    ]
+  },
+  "aroace_2018": {
+    "name": "Aroace",
+    "id": "aroace_2018",
+    "year": "2018",
+    "svg": "",
+    "colors": [
+      {
+        "name": "orange",
+        "hexCode": "#e28c00",
+        "r": 226,
+        "g": 140,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#eccd00",
+        "r": 236,
+        "g": 205,
+        "b": 0
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "blue",
+        "hexCode": "#62aedc",
+        "r": 98,
+        "g": 174,
+        "b": 220
+      },
+      {
+        "name": "navy",
+        "hexCode": "#203856",
+        "r": 32,
+        "g": 56,
+        "b": 86
+      }
+    ]
+  },
+  "aromantic_2014": {
+    "name": "Aromantic",
+    "id": "aromantic_2014",
+    "year": "2014",
+    "svg": "",
+    "colors": [
+      {
+        "name": "grey",
+        "hexCode": "#a9a9a9",
+        "r": 169,
+        "g": 169,
+        "b": 169
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "light green",
+        "hexCode": "#a7d379",
+        "r": 167,
+        "g": 211,
+        "b": 121
+      },
+      {
+        "name": "dark green",
+        "hexCode": "#3da542",
+        "r": 61,
+        "g": 165,
+        "b": 66
+      }
+    ]
+  },
+  "asexual_2010": {
+    "name": "Asexual",
+    "id": "asexual_2010",
+    "year": "2010",
+    "svg": "",
+    "colors": [
+      {
+        "name": "black",
+        "hexCode": "#000000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "grey",
+        "hexCode": "#a3a3a3",
+        "r": 163,
+        "g": 163,
+        "b": 163
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "purple",
+        "hexCode": "#800080",
+        "r": 128,
+        "g": 0,
+        "b": 128
+      }
+    ]
+  },
+  "bear_1995": {
+    "name": "Bear",
+    "id": "bear_1995",
+    "year": "1995",
+    "colors": [
+      {
+        "name": "brown",
+        "hexCode": "#623804",
+        "r": 98,
+        "g": 56,
+        "b": 4
+      },
+      {
+        "name": "orange",
+        "hexCode": "#d56300",
+        "r": 213,
+        "g": 99,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#fedd63",
+        "r": 254,
+        "g": 221,
+        "b": 99
+      },
+      {
+        "name": "cream",
+        "hexCode": "#fee6b8",
+        "r": 254,
+        "g": 230,
+        "b": 184
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "grey",
+        "hexCode": "#555555",
+        "r": 85,
+        "g": 85,
+        "b": 85
+      },
+      {
+        "name": "black",
+        "hexCode": "#000000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      }
+    ],
+    "svg": ""
+  },
+  "bigender_2014": {
+    "name": "Bigender",
+    "id": "bigender_2014",
+    "year": "2014",
+    "svg": "",
+    "colors": [
+      {
+        "name": "deep pink",
+        "hexCode": "#C479A0",
+        "r": 196,
+        "g": 121,
+        "b": 160
+      },
+      {
+        "name": "pink",
+        "hexCode": "#ECA6CB",
+        "r": 236,
+        "g": 166,
+        "b": 203
+      },
+      {
+        "name": "lilac",
+        "hexCode": "#D6C7E7",
+        "r": 214,
+        "g": 199,
+        "b": 231
+      },
+      {
+        "name": "white",
+        "hexCode": "#FFFFFF",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "baby blue",
+        "hexCode": "#9BC7E8",
+        "r": 155,
+        "g": 199,
+        "b": 232
+      },
+      {
+        "name": "deep blue",
+        "hexCode": "#6B83CF",
+        "r": 107,
+        "g": 131,
+        "b": 207
+      }
+    ]
+  },
+  "bisexual_1998": {
+    "name": "Bisexual",
+    "id": "bisexual_1998",
+    "year": "1998",
+    "emoji": "🏳⚥",
+    "colors": [
+      {
+        "name": "magenta",
+        "hexCode": "#d6006f",
+        "r": 214,
+        "g": 0,
+        "b": 111
+      },
+      {
+        "name": "lavender",
+        "hexCode": "#724e94",
+        "r": 114,
+        "g": 78,
+        "b": 148
+      },
+      {
+        "name": "blue",
+        "hexCode": "#0038a7",
+        "r": 0,
+        "g": 56,
+        "b": 167
+      }
+    ],
+    "svg": ""
+  },
+  "gay_men_2019": {
+    "name": "Gay Men",
+    "id": "gay_men_2019",
+    "year": "2019",
+    "svg": "",
+    "colors": [
+      {
+        "name": "dark green",
+        "hexCode": "#078d70",
+        "r": 7,
+        "g": 141,
+        "b": 112
+      },
+      {
+        "name": "green",
+        "hexCode": "#26ceaa",
+        "r": 38,
+        "g": 206,
+        "b": 170
+      },
+      {
+        "name": "light green",
+        "hexCode": "#99e8c2",
+        "r": 153,
+        "g": 232,
+        "b": 194
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "light blue",
+        "hexCode": "#7bade3",
+        "r": 123,
+        "g": 173,
+        "b": 227
+      },
+      {
+        "name": "purple",
+        "hexCode": "#5049cb",
+        "r": 80,
+        "g": 73,
+        "b": 203
+      },
+      {
+        "name": "dark purple",
+        "hexCode": "#3e1a78",
+        "r": 62,
+        "g": 26,
+        "b": 120
+      }
+    ]
+  },
+  "genderfluid_2012": {
+    "name": "Genderfluid",
+    "id": "genderfluid_2012",
+    "year": "2012",
+    "svg": "",
+    "colors": [
+      {
+        "name": "blue",
+        "hexCode": "#333ebd",
+        "r": 51,
+        "g": 62,
+        "b": 189
+      },
+      {
+        "name": "white",
+        "hexCode": "#ffffff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "purple",
+        "hexCode": "#be18d6",
+        "r": 190,
+        "g": 24,
+        "b": 214
+      },
+      {
+        "name": "pink",
+        "hexCode": "#ff75a2",
+        "r": 255,
+        "g": 117,
+        "b": 162
+      }
+    ]
+  },
+  "genderqueer_2011": {
+    "name": "Genderqueer",
+    "id": "genderqueer_2011",
+    "year": "2011",
+    "svg": "",
+    "colors": [
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "green",
+        "hexCode": "#4a8123",
+        "r": 74,
+        "g": 129,
+        "b": 35
+      },
+      {
+        "name": "purple",
+        "hexCode": "#b57edc",
+        "r": 181,
+        "g": 126,
+        "b": 220
+      }
+    ]
+  },
+  "intersex_2013": {
+    "name": "Intersex",
+    "id": "intersex_2013",
+    "year": "2013",
+    "svg": "",
+    "colors": [
+      {
+        "name": "purple",
+        "hexCode": "#7902aa",
+        "r": 121,
+        "g": 2,
+        "b": 170
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FFD800",
+        "r": 255,
+        "g": 216,
+        "b": 0
+      }
+    ]
+  },
+  "intersexInclusive_2021": {
+    "name": "Intersex Inclusive Pride",
+    "id": "intersexInclusive_2021",
+    "year": "2021",
+    "colors": [
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "pink",
+        "hexCode": "#F5A9B8",
+        "r": 245,
+        "g": 169,
+        "b": 184
+      },
+      {
+        "name": "light blue",
+        "hexCode": "#5BCEFA",
+        "r": 91,
+        "g": 206,
+        "b": 250
+      },
+      {
+        "name": "black",
+        "hexCode": "#000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "brown",
+        "hexCode": "#784F17",
+        "r": 130,
+        "g": 79,
+        "b": 23
+      },
+      {
+        "name": "red",
+        "hexCode": "#E20A17",
+        "r": 226,
+        "g": 10,
+        "b": 23
+      },
+      {
+        "name": "orange",
+        "hexCode": "#FD8D25",
+        "r": 253,
+        "g": 141,
+        "b": 37
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FEEC34",
+        "r": 254,
+        "g": 236,
+        "b": 52
+      },
+      {
+        "name": "green",
+        "hexCode": "#108028",
+        "r": 16,
+        "g": 128,
+        "b": 40
+      },
+      {
+        "name": "blue",
+        "hexCode": "#0F54FB",
+        "r": 15,
+        "g": 84,
+        "b": 251
+      },
+      {
+        "name": "violet",
+        "hexCode": "#751086",
+        "r": 117,
+        "g": 16,
+        "b": 134
+      },
+      {
+        "name": "purple",
+        "hexCode": "#7902aa",
+        "r": 121,
+        "g": 2,
+        "b": 170
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FFD800",
+        "r": 255,
+        "g": 216,
+        "b": 0
+      }
+    ],
+    "svg": ""
+  },
+  "labrysLesbian_1999": {
+    "name": "Labrys Lesbian",
+    "id": "labrysLesbian_1999",
+    "year": "1999",
+    "svg": "",
+    "colors": [
+      {
+        "name": "purple",
+        "hexCode": "#792491",
+        "r": 121,
+        "g": 36,
+        "b": 145
+      },
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "black",
+        "hexCode": "#000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      }
+    ]
+  },
+  "lesbian_2010": {
+    "name": "Lesbian",
+    "id": "lesbian_2010",
+    "year": "2010",
+    "svg": "",
+    "obs": "I could not find a source for the names of these colours so I have chosen names based on how they same to me. If anyone finds a source for the names of these colours please let me know!",
+    "colors": [
+      {
+        "name": "dark orange",
+        "hexCode": "#8A1E04",
+        "r": 138,
+        "g": 30,
+        "b": 4
+      },
+      {
+        "name": "light red",
+        "hexCode": "#c54e54",
+        "r": 197,
+        "g": 78,
+        "b": 84
+      },
+      {
+        "name": "light pink",
+        "hexCode": "#E4ACCF",
+        "r": 228,
+        "g": 172,
+        "b": 207
+      },
+      {
+        "name": "light grey",
+        "hexCode": "#EDEDEB",
+        "r": 237,
+        "g": 237,
+        "b": 235
+      },
+      {
+        "name": "pink",
+        "hexCode": "#D063A6",
+        "r": 208,
+        "g": 99,
+        "b": 166
+      },
+      {
+        "name": "dark pink",
+        "hexCode": "#B75592",
+        "r": 183,
+        "g": 85,
+        "b": 146
+      },
+      {
+        "name": "purple",
+        "hexCode": "#A40061",
+        "r": 164,
+        "g": 0,
+        "b": 97
+      }
+    ]
+  },
+  "lesbian_2018": {
+    "name": "Lesbian",
+    "id": "lesbian_2018",
+    "year": "2018",
+    "svg": "",
+    "obs": "I could not find a source for the names of these colours so I have chosen names based on how they same to me. If anyone finds a source for the names of these colours please let me know!",
+    "colors": [
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "light orange",
+        "hexCode": "#ff9a56",
+        "r": 255,
+        "g": 154,
+        "b": 86
+      },
+      {
+        "name": "orange",
+        "hexCode": "#ef7627",
+        "r": 239,
+        "g": 118,
+        "b": 39
+      },
+      {
+        "name": "dark orange",
+        "hexCode": "#d52d00",
+        "r": 213,
+        "g": 45,
+        "b": 0
+      },
+      {
+        "name": "pink",
+        "hexCode": "#d162a4",
+        "r": 209,
+        "g": 98,
+        "b": 164
+      },
+      {
+        "name": "dark pink",
+        "hexCode": "#b55690",
+        "r": 181,
+        "g": 86,
+        "b": 144
+      },
+      {
+        "name": "purple",
+        "hexCode": "#a30262",
+        "r": 163,
+        "g": 2,
+        "b": 98
+      }
+    ]
+  },
+  "lesbian_2019": {
+    "name": "Lesbian",
+    "id": "lesbian_2019",
+    "year": "2019",
+    "svg": "",
+    "obs": "I could not find a source for the names of these colours so I have chosen names based on how they same to me. If anyone finds a source for the names of these colours please let me know!",
+    "colors": [
+      {
+        "name": "purple",
+        "hexCode": "#A30262",
+        "r": 163,
+        "g": 2,
+        "b": 98
+      },
+      {
+        "name": "pink",
+        "hexCode": "#D362A4",
+        "r": 211,
+        "g": 98,
+        "b": 164
+      },
+      {
+        "name": "white",
+        "hexCode": "#FFFFFF",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "orange",
+        "hexCode": "#FF9A56",
+        "r": 255,
+        "g": 154,
+        "b": 86
+      },
+      {
+        "name": "dark orange",
+        "hexCode": "#D52D00",
+        "r": 213,
+        "g": 45,
+        "b": 0
+      }
+    ]
+  },
+  "lipstick_lesbian_2010": {
+    "name": "Lipstick Lesbian",
+    "id": "lipstick_lesbian_2010",
+    "year": "2010",
+    "svg": "",
+    "obs": "colours match lesbian_2010 so I've taken those colour names, with the addition of red",
+    "colors": [
+      {
+        "name": "dark orange",
+        "hexCode": "#8A1E04",
+        "r": 138,
+        "g": 30,
+        "b": 4
+      },
+      {
+        "name": "light red",
+        "hexCode": "#c54e54",
+        "r": 197,
+        "g": 78,
+        "b": 84
+      },
+      {
+        "name": "light pink",
+        "hexCode": "#E4ACCF",
+        "r": 228,
+        "g": 172,
+        "b": 207
+      },
+      {
+        "name": "light grey",
+        "hexCode": "#EDEDEB",
+        "r": 237,
+        "g": 237,
+        "b": 235
+      },
+      {
+        "name": "pink",
+        "hexCode": "#D063A6",
+        "r": 208,
+        "g": 99,
+        "b": 166
+      },
+      {
+        "name": "dark pink",
+        "hexCode": "#B75592",
+        "r": 183,
+        "g": 85,
+        "b": 146
+      },
+      {
+        "name": "purple",
+        "hexCode": "#A40061",
+        "r": 164,
+        "g": 0,
+        "b": 97
+      },
+      {
+        "name": "red",
+        "hexCode": "#EB1449",
+        "r": 235,
+        "g": 20,
+        "b": 73
+      }
+    ]
+  },
+  "nonbinary_2014": {
+    "name": "Nonbinary",
+    "id": "nonbinary_2014",
+    "year": "2019",
+    "svg": "",
+    "colors": [
+      {
+        "name": "purple",
+        "hexCode": "#9c5cd4",
+        "r": 156,
+        "g": 92,
+        "b": 212
+      },
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#fcf434",
+        "r": 252,
+        "g": 244,
+        "b": 52
+      },
+      {
+        "name": "black",
+        "hexCode": "#2c2c2c",
+        "r": 44,
+        "g": 44,
+        "b": 44
+      }
+    ]
+  },
+  "omnisexual_2015": {
+    "name": "Omnisexual",
+    "id": "omnisexual_2015",
+    "year": "2015",
+    "colors": [
+      {
+        "name": "lightpink",
+        "hexCode": "#ff9bcf",
+        "r": 255,
+        "g": 155,
+        "b": 207
+      },
+      {
+        "name": "pink",
+        "hexCode": "#ff55c0",
+        "r": 255,
+        "g": 85,
+        "b": 192
+      },
+      {
+        "name": "darkpurple",
+        "hexCode": "#250148",
+        "r": 37,
+        "g": 1,
+        "b": 72
+      },
+      {
+        "name": "blue",
+        "hexCode": "#675eff",
+        "r": 103,
+        "g": 94,
+        "b": 255
+      },
+      {
+        "name": "lightblue",
+        "hexCode": "#8fa7ff",
+        "r": 143,
+        "g": 167,
+        "b": 255
+      }
+    ],
+    "svg": ""
+  },
+  "pangender_2015": {
+    "name": "Pangender",
+    "id": "pangender_2015",
+    "year": "2015",
+    "svg": "",
+    "colors": [
+      {
+        "name": "light yellow",
+        "hexCode": "#FFF798",
+        "r": 255,
+        "g": 247,
+        "b": 152
+      },
+      {
+        "name": "light orange",
+        "hexCode": "#FFDDCD",
+        "r": 255,
+        "g": 221,
+        "b": 205
+      },
+      {
+        "name": "light pink",
+        "hexCode": "#FFEBFD",
+        "r": 255,
+        "g": 235,
+        "b": 253
+      },
+      {
+        "name": "white",
+        "hexCode": "#FFFFFF",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    ]
+  },
+  "pansexual_2010": {
+    "name": "Pansexual",
+    "id": "pansexual_2010",
+    "year": "2010",
+    "svg": "",
+    "colors": [
+      {
+        "name": "magenta",
+        "hexCode": "#d6006f",
+        "r": 255,
+        "g": 33,
+        "b": 140
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#ffd800",
+        "r": 255,
+        "g": 216,
+        "b": 0
+      },
+      {
+        "name": "cyan",
+        "hexCode": "#21b1ff",
+        "r": 33,
+        "g": 177,
+        "b": 255
+      }
+    ]
+  },
+  "philadelphiaPride_2017": {
+    "name": "Philadelphia Pride",
+    "id": "philadelphiaPride_2017",
+    "year": "2017",
+    "colors": [
+      {
+        "name": "black",
+        "hexCode": "#000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "brown",
+        "hexCode": "#784F17",
+        "r": 130,
+        "g": 79,
+        "b": 23
+      },
+      {
+        "name": "red",
+        "hexCode": "#E40303",
+        "r": 228,
+        "g": 3,
+        "b": 3
+      },
+      {
+        "name": "orange",
+        "hexCode": "#FF8C00",
+        "r": 255,
+        "g": 140,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FFED00",
+        "r": 255,
+        "g": 237,
+        "b": 0
+      },
+      {
+        "name": "green",
+        "hexCode": "#008026",
+        "r": 0,
+        "g": 128,
+        "b": 38
+      },
+      {
+        "name": "blue",
+        "hexCode": "#004DFF",
+        "r": 0,
+        "g": 77,
+        "b": 255
+      },
+      {
+        "name": "violet",
+        "hexCode": "#750787",
+        "r": 117,
+        "g": 7,
+        "b": 135
+      }
+    ],
+    "svg": ""
+  },
+  "pinkUnionJack_2009": {
+    "name": "Pink Union Jack",
+    "id": "pinkUnionJack_2009",
+    "year": "2009",
+    "svg": "",
+    "colors": [
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "pink",
+        "hexCode": "#fa87d2",
+        "r": 250,
+        "g": 135,
+        "b": 210
+      },
+      {
+        "name": "deep pink",
+        "hexCode": "#e00034",
+        "r": 224,
+        "g": 0,
+        "b": 52
+      }
+    ]
+  },
+  "polysexual_2012": {
+    "name": "Polysexual",
+    "id": "polysexual_2012",
+    "year": "2019",
+    "svg": "",
+    "colors": [
+      {
+        "name": "pink",
+        "hexCode": "#f61cb9",
+        "r": 246,
+        "g": 28,
+        "b": 185
+      },
+      {
+        "name": "green",
+        "hexCode": "#07d569",
+        "r": 7,
+        "g": 213,
+        "b": 105
+      },
+      {
+        "name": "blue",
+        "hexCode": "#1c92f6",
+        "r": 28,
+        "g": 146,
+        "b": 246
+      }
+    ]
+  },
+  "pride_1978_eightStripes": {
+    "name": "Pride",
+    "id": "pride_1978_eightStripes",
+    "year": "1978",
+    "colors": [
+      {
+        "name": "hot pink",
+        "hexCode": "#ff69b4",
+        "r": 255,
+        "g": 105,
+        "b": 180
+      },
+      {
+        "name": "red",
+        "hexCode": "#e20a17",
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "orange",
+        "hexCode": "#ff8e00",
+        "r": 255,
+        "g": 142,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#ff0",
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      {
+        "name": "green",
+        "hexCode": "#008e00",
+        "r": 0,
+        "g": 142,
+        "b": 0
+      },
+      {
+        "name": "turquoise",
+        "hexCode": "#00c0c0",
+        "r": 0,
+        "g": 192,
+        "b": 192
+      },
+      {
+        "name": "indigo",
+        "hexCode": "#400098",
+        "r": 64,
+        "g": 0,
+        "b": 152
+      },
+      {
+        "name": "violet",
+        "hexCode": "#8e008e",
+        "r": 142,
+        "g": 0,
+        "b": 142
+      }
+    ],
+    "svg": ""
+  },
+  "pride_1978_sevenStripes": {
+    "name": "Pride",
+    "id": "pride_1978_sevenStripes",
+    "year": "1978",
+    "colors": [
+      {
+        "name": "red",
+        "hexCode": "#e20a17",
+        "r": 255,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "orange",
+        "hexCode": "#ff8e00",
+        "r": 255,
+        "g": 142,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#ff0",
+        "r": 255,
+        "g": 255,
+        "b": 0
+      },
+      {
+        "name": "green",
+        "hexCode": "#008e00",
+        "r": 0,
+        "g": 142,
+        "b": 0
+      },
+      {
+        "name": "turquoise",
+        "hexCode": "#00c0c0",
+        "r": 0,
+        "g": 192,
+        "b": 192
+      },
+      {
+        "name": "indigo",
+        "hexCode": "#400098",
+        "r": 64,
+        "g": 0,
+        "b": 152
+      },
+      {
+        "name": "violet",
+        "hexCode": "#8e008e",
+        "r": 142,
+        "g": 0,
+        "b": 142
+      }
+    ],
+    "svg": ""
+  },
+  "pride_1979": {
+    "name": "Pride",
+    "id": "pride_1979",
+    "year": "1979",
+    "emoji": "🏳️‍🌈",
+    "colors": [
+      {
+        "name": "red",
+        "hexCode": "#e20a17",
+        "r": 226,
+        "g": 10,
+        "b": 23
+      },
+      {
+        "name": "orange",
+        "hexCode": "#fd8d25",
+        "r": 253,
+        "g": 141,
+        "b": 37
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#feec34",
+        "r": 254,
+        "g": 236,
+        "b": 52
+      },
+      {
+        "name": "green",
+        "hexCode": "#108028",
+        "r": 16,
+        "g": 128,
+        "b": 40
+      },
+      {
+        "name": "blue",
+        "hexCode": "#0f54fb",
+        "r": 15,
+        "g": 84,
+        "b": 251
+      },
+      {
+        "name": "violet",
+        "hexCode": "#751086",
+        "r": 117,
+        "g": 16,
+        "b": 134
+      }
+    ],
+    "svg": ""
+  },
+  "progressPride_2018": {
+    "name": "Progress Pride",
+    "id": "progressPride_2018",
+    "year": "2018",
+    "colors": [
+      {
+        "name": "white",
+        "hexCode": "#fff",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "pink",
+        "hexCode": "#F5A9B8",
+        "r": 245,
+        "g": 169,
+        "b": 184
+      },
+      {
+        "name": "light blue",
+        "hexCode": "#5BCEFA",
+        "r": 91,
+        "g": 206,
+        "b": 250
+      },
+      {
+        "name": "black",
+        "hexCode": "#000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "brown",
+        "hexCode": "#784F17",
+        "r": 130,
+        "g": 79,
+        "b": 23
+      },
+      {
+        "name": "red",
+        "hexCode": "#E20A17",
+        "r": 226,
+        "g": 10,
+        "b": 23
+      },
+      {
+        "name": "orange",
+        "hexCode": "#FD8D25",
+        "r": 253,
+        "g": 141,
+        "b": 37
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FEEC34",
+        "r": 254,
+        "g": 236,
+        "b": 52
+      },
+      {
+        "name": "green",
+        "hexCode": "#108028",
+        "r": 16,
+        "g": 128,
+        "b": 40
+      },
+      {
+        "name": "blue",
+        "hexCode": "#0F54FB",
+        "r": 15,
+        "g": 84,
+        "b": 251
+      },
+      {
+        "name": "violet",
+        "hexCode": "#751086",
+        "r": 117,
+        "g": 16,
+        "b": 134
+      }
+    ],
+    "svg": ""
+  },
+  "sapphic_2015": {
+    "name": "Sapphic",
+    "id": "sapphic_2015",
+    "year": "2015",
+    "svg": "",
+    "colors": [
+      {
+        "name": "pink",
+        "hexCode": "#FE8CA9",
+        "r": 254,
+        "g": 140,
+        "b": 169
+      },
+      {
+        "name": "pale lilac",
+        "hexCode": "#FCF3FF",
+        "r": 252,
+        "g": 243,
+        "b": 255
+      },
+      {
+        "name": "violet",
+        "hexCode": "#C56BC5",
+        "r": 197,
+        "g": 107,
+        "b": 197
+      }
+    ]
+  },
+  "southAfricaPride_2010": {
+    "name": "South African Pride",
+    "id": "southAfricaPride_2010",
+    "year": "2010",
+    "colors": [
+      {
+        "name": "black",
+        "hexCode": "#000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "white",
+        "hexCode": "#784F17",
+        "r": 130,
+        "g": 79,
+        "b": 23
+      },
+      {
+        "name": "red",
+        "hexCode": "#E40303",
+        "r": 228,
+        "g": 3,
+        "b": 3
+      },
+      {
+        "name": "orange",
+        "hexCode": "#FF8C00",
+        "r": 255,
+        "g": 140,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FFED00",
+        "r": 255,
+        "g": 237,
+        "b": 0
+      },
+      {
+        "name": "green",
+        "hexCode": "#008026",
+        "r": 0,
+        "g": 128,
+        "b": 38
+      },
+      {
+        "name": "blue",
+        "hexCode": "#004DFF",
+        "r": 0,
+        "g": 77,
+        "b": 255
+      },
+      {
+        "name": "violet",
+        "hexCode": "#750787",
+        "r": 117,
+        "g": 7,
+        "b": 135
+      }
+    ],
+    "svg": ""
+  },
+  "transgender_1999": {
+    "name": "Transgender",
+    "id": "transgender_1999",
+    "year": "1999",
+    "emoji": "🏳️‍⚧️",
+    "colors": [
+      {
+        "name": "light blue",
+        "hexCode": "#5BCEFA",
+        "r": 91,
+        "g": 206,
+        "b": 250
+      },
+      {
+        "name": "pink",
+        "hexCode": "#F5A9B8",
+        "r": 245,
+        "g": 169,
+        "b": 184
+      },
+      {
+        "name": "white",
+        "hexCode": "#FFF",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      }
+    ],
+    "svg": ""
+  },
+  "twink_2009": {
+    "name": "Twink",
+    "id": "twink_2009",
+    "obs": "on Wikimedia a user claims to have designed this in 2009, but I can't find a definitive reference elsewhere; https://commons.wikimedia.org/wiki/File:Twinkprideflag.jpg",
+    "year": "2009",
+    "svg": "",
+    "colors": [
+      {
+        "name": "pink",
+        "hexCode": "#FFB0FF",
+        "r": 255,
+        "g": 176,
+        "b": 255
+      },
+      {
+        "name": "white",
+        "hexCode": "#FFFFFF",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      {
+        "name": "black",
+        "hexCode": "#000000",
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      {
+        "name": "yellow",
+        "hexCode": "#FFFF80",
+        "r": 255,
+        "g": 255,
+        "b": 128
+      }
+    ]
+  }
+}

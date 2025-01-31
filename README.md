@@ -10,4 +10,5 @@ making/searching for all svg LGBT symbols and flags and their Hex colors
 
 ## Some sources
 
-- [Joe Hart](https://github.com/JoeHart/pride-flag-api)
+- [Some SVGs and Years](https://github.com/JoeHart/pride-flag-api)
+- [Palletes](https://github.com/turtletopia/gglgbtq/blob/master/R/data.R)
