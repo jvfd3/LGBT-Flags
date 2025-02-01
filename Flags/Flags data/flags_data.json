@@ -452,7 +452,7 @@
       },
       {
         "name": "black",
-        "hexCode": "#000",
+        "hexCode": "#000000",
         "r": 0,
         "g": 0,
         "b": 0
@@ -545,7 +545,7 @@
       },
       {
         "name": "black",
-        "hexCode": "#000",
+        "hexCode": "#000000",
         "r": 0,
         "g": 0,
         "b": 0
@@ -928,7 +928,7 @@
     "colors": [
       {
         "name": "black",
-        "hexCode": "#000",
+        "hexCode": "#000000",
         "r": 0,
         "g": 0,
         "b": 0
@@ -1071,7 +1071,7 @@
       },
       {
         "name": "yellow",
-        "hexCode": "#ff0",
+        "hexCode": "#ffff00",
         "r": 255,
         "g": 255,
         "b": 0
@@ -1128,7 +1128,7 @@
       },
       {
         "name": "yellow",
-        "hexCode": "#ff0",
+        "hexCode": "#ffff00",
         "r": 255,
         "g": 255,
         "b": 0
@@ -1243,7 +1243,7 @@
       },
       {
         "name": "black",
-        "hexCode": "#000",
+        "hexCode": "#000000",
         "r": 0,
         "g": 0,
         "b": 0
@@ -1336,7 +1336,7 @@
     "colors": [
       {
         "name": "black",
-        "hexCode": "#000",
+        "hexCode": "#000000",
         "r": 0,
         "g": 0,
         "b": 0
