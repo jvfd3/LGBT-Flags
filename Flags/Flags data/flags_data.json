@@ -14,7 +14,7 @@
       },
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -381,7 +381,7 @@
     "colors": [
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -431,7 +431,7 @@
     "colors": [
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -538,7 +538,7 @@
       },
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -619,7 +619,7 @@
     "colors": [
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -792,7 +792,7 @@
       },
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -993,7 +993,7 @@
     "colors": [
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -1222,7 +1222,7 @@
     "colors": [
       {
         "name": "white",
-        "hexCode": "#fff",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
@@ -1415,7 +1415,7 @@
       },
       {
         "name": "white",
-        "hexCode": "#FFF",
+        "hexCode": "#ffffff",
         "r": 255,
         "g": 255,
         "b": 255
