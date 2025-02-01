@@ -1,16 +1,8 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 3000" width="14173"
-	height="8504">
-	<title>Aceflux</title>
-	<style>
-		.s0 { fill: #c81d51 }
-		.s1 { fill: #c12779 }
-		.s2 { fill: #c0279a }
-		.s3 { fill: #a828ac }
-		.s4 { fill: #8c26af }
-	</style>
-	<path id="1" class="s0" d="m0 0h5000v3000h-5000z" />
-	<path id="2" class="s1" d="m0 600h5000v2400h-5000z" />
-	<path id="3" class="s2" d="m0 1200h5000v1800h-5000z" />
-	<path id="4" class="s3" d="m0 1800h5000v1200h-5000z" />
-	<path id="5" class="s4" d="m0 2400h5000v600h-5000z" />
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 5000 3000" width="14173" height="8504">
+  <title>Aceflux</title>
+  <path fill="#c81d51" d="m0 0h5000v3000h-5000z" />
+  <path fill="#c12779" d="m0 600h5000v2400h-5000z" />
+  <path fill="#c0279a" d="m0 1200h5000v1800h-5000z" />
+  <path fill="#a828ac" d="m0 1800h5000v1200h-5000z" />
+  <path fill="#8c26af" d="m0 2400h5000v600h-5000z" />
 </svg>

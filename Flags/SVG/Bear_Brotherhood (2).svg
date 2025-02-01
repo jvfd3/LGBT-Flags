@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 357" width="595" height="357">
-  <path fill="#623804" d="M0 0h595v51H0z" />
-  <path fill="#d56300" d="M0 51h595v51H0z" />
-  <path fill="#fedd63" d="M0 102h595v51H0z" />
-  <path fill="#fee6b8" d="M0 153h595v51H0z" />
-  <path fill="#ffffff" d="M0 204h595v51H0z" />
-  <path fill="#555555" d="M0 255h595v51H0z" />
-  <path d="
+    <path fill="#623804" d="M0 0h595v51H0z" />
+    <path fill="#d56300" d="M0 51h595v51H0z" />
+    <path fill="#fedd63" d="M0 102h595v51H0z" />
+    <path fill="#fee6b8" d="M0 153h595v51H0z" />
+    <path fill="#ffffff" d="M0 204h595v51H0z" />
+    <path fill="#555555" d="M0 255h595v51H0z" />
+    <path d="
     M0 306
     h595
     v51
