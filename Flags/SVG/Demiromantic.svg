@@ -21,5 +21,5 @@
    <path fill="#D2D2D2" d="M0 0h800v480H0" id="path4138" />
    <path fill="#6E0070" d="M0 0h800v280H0" id="path4140" style="fill:#338a37;fill-opacity:1" />
    <path fill="#ffffff" d="M0 0h800v200H0" id="path4142" />
-   <path d="M0 0l306 240L0 480" id="path4144" />
+   <path fill="#000000" d="M0 0l306 240L0 480" id="path4144" />
 </svg>

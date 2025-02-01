@@ -5,7 +5,7 @@
   <path fill="#efe524" d="M0 0h1200v381H0V0Z" />
   <path fill="#f28917" d="M0 0h1200v254H0V0Z" />
   <path fill="#e22016" d="M0 0h1200v127H0V0Z" />
-  <path d="M315 0H0v762h315l353-381L315 0z" />
+  <path fill="#000000" d="M315 0H0v762h315l353-381L315 0z" />
   <path fill="#945516" d="M241 0H0v762h241l353-381L241 0z" />
   <path fill="#7bcce5" d="M168 0H0v762h168l353-381L168 0z" />
   <path fill="#f4aec8" d="M95 0H0v762h95l353-381L95 0z" />
