@@ -1,23 +1,12 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 2700" width="4500"
-	height="2700">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 2700">
 	<title>queer flag</title>
-	<style>
-		.s0 { fill: #000000 }
-		.s1 { fill: #99d9ea }
-		.s2 { fill: #00a2e8 }
-		.s3 { fill: #b5e61d }
-		.s4 { fill: #ffffff }
-		.s5 { fill: #ffc90e }
-		.s6 { fill: #fd6666 }
-		.s7 { fill: #ffaec9 }
-	</style>
-	<path class="s0" d="m0 0h4500v2700h-4500z" id="black" />
-	<path class="s1" d="m0 300h4500v2400h-4500z" id="lightBlue" />
-	<path class="s2" d="m0 600h4500v2100h-4500z" id="blue" />
-	<path class="s3" d="m0 900h4500v1800h-4500z" id="green" />
-	<path class="s4" d="m0 1200h4500v1500h-4500z" id="white" />
-	<path class="s5" d="m0 1500h4500v1200h-4500z" id="yellow" />
-	<path class="s6" d="m0 1800h4500v900h-4500z" id="red" />
-	<path class="s7" d="m0 2100h4500v600h-4500z" id="pink" />
-	<path class="s0" d="m0 2400h4500v300h-4500z" id="black2" />
+	<path fill="#000000" d="m0 0h4500v2700h-4500z" />
+	<path fill="#99d9ea" d="m0 300h4500v2400h-4500z" />
+	<path fill="#00a2e8" d="m0 600h4500v2100h-4500z" />
+	<path fill="#b5e61d" d="m0 900h4500v1800h-4500z" />
+	<path fill="#ffffff" d="m0 1200h4500v1500h-4500z" />
+	<path fill="#ffc90e" d="m0 1500h4500v1200h-4500z" />
+	<path fill="#fd6666" d="m0 1800h4500v900h-4500z" />
+	<path fill="#ffaec9" d="m0 2100h4500v600h-4500z" />
+	<path fill="#000000" d="m0 2400h4500v300h-4500z" />
 </svg>

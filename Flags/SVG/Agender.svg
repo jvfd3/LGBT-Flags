@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
-  <rect width="800" height="560" />
-  <rect y="80" width="800" height="400" fill="#b9b9b9" />
-  <rect y="160" width="800" height="240" fill="#ffffff" />
-  <rect y="240" width="800" height="80" fill="#b8f483" />
+  <rect fill="#000000" width="800" height="560" />
+  <rect fill="#b9b9b9" width="800" height="400" y="80" />
+  <rect fill="#ffffff" width="800" height="240" y="160" />
+  <rect fill="#b8f483" width="800" height="80" y="240" />
 </svg>

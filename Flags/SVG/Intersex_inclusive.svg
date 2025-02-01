@@ -11,5 +11,5 @@
   <path fill="#f4aec8" d="M95 0H0v762h95l353-381L95 0z" />
   <path fill="#ffffff" d="M0 0v762h22l352-381L22 0H0z" />
   <path fill="#fdd817" d="m0 706 301-325L0 55v651z" />
-  <circle cx="111" cy="381" r="80" fill="none" stroke="#66338b" stroke-width="19" />
+  <circle stroke="#66338b" cx="111" cy="381" r="80" fill="none" stroke-width="19" />
 </svg>
