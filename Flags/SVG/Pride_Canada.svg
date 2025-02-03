@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 5760 3840" version="1.1" id="svg958"
   xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#">
-  <path fill="#770088" d="M 0,0 H 5760 V 3840 H 0 Z" id="path842" style="stroke-width:7.70098" />
-  <path fill="#004cff" d="M 0,0 H 5760 V 3200 H 0 Z" id="path844" style="stroke-width:7.70098" />
-  <path fill="#028121" d="M 0,0 H 5760 V 2560 H 0 Z" id="path846" style="stroke-width:7.70098" />
-  <path fill="#ffee00" d="M 0,0 H 5760 V 1920 H 0 Z" id="path848" style="stroke-width:7.70098" />
-  <path fill="#ff8d00" d="M 0,0 H 5760 V 1280 H 0 Z" id="path850" style="stroke-width:7.70098" />
-  <path fill="#e50000" d="M 0,0 H 5760 V 640 H 0 Z" id="path852" style="stroke-width:7.70098" />
-  <path fill="#ffffff" d="M 1440,0 H 4320 V 3840 H 1440 Z" id="path956" style="stroke-width:0.69282" />
+  <path fill="#770088" d="M 0 0 H 5760 V 3840 H 0 Z" id="path842" style="stroke-width:7.70098" />
+  <path fill="#004cff" d="M 0 0 H 5760 V 3200 H 0 Z" id="path844" style="stroke-width:7.70098" />
+  <path fill="#028121" d="M 0 0 H 5760 V 2560 H 0 Z" id="path846" style="stroke-width:7.70098" />
+  <path fill="#ffee00" d="M 0 0 H 5760 V 1920 H 0 Z" id="path848" style="stroke-width:7.70098" />
+  <path fill="#ff8d00" d="M 0 0 H 5760 V 1280 H 0 Z" id="path850" style="stroke-width:7.70098" />
+  <path fill="#e50000" d="M 0 0 H 5760 V 640 H 0 Z" id="path852" style="stroke-width:7.70098" />
+  <path fill="#ffffff" d="M 1440 0 H 4320 V 3840 H 1440 Z" id="path956" style="stroke-width:0.69282" />
   <path
     d="m 2934,3138 -27,-517.8 c -1.6766,-36.3732 30.715,-64.9711 66.6,-58.8 l 515.4,90.6 -69.6,-192 c -5.7898,-15.6634 -0.9647,-33.2748 12,-43.8 l 564.6,-457.1999 -127.2,-59.4 c -17.7752,-8.3997 -26.5192,-28.7166 -20.4,-47.4 l 111.6,-343.2 -325.2,69 c -18.1649,3.7873 -36.483,-5.7482 -43.8,-22.8 l -63,-148.2 -253.8,272.4 c -11.9201,12.5729 -30.7055,15.7749 -46.1176,7.8604 -15.412,-7.9141 -23.7553,-25.0472 -20.4824,-42.0604 l 122.4,-631.2 -196.2,113.3998 c -19.4602,11.4055 -44.5093,3.9734 -54.6,-16.1999 L 2880,720 2680.8,1111.2 c -10.0907,20.1733 -35.1398,27.6054 -54.6,16.1999 l -196.2,-113.3998 122.4,631.2 c 3.2729,17.0132 -5.0704,34.1463 -20.4824,42.0604 -15.4121,7.9145 -34.1975,4.7125 -46.1176,-7.8604 l -253.8,-272.4 -63,148.2 c -7.3171,17.0518 -25.6351,26.5873 -43.8,22.8 l -325.2,-69 111.6,343.2 c 6.1192,18.6834 -2.6248,39.0003 -20.4,47.4 l -127.2,59.4 564.6,457.2 c 12.9647,10.5252 17.7897,28.1366 12,43.8 l -69.6,192 515.4,-90.6 c 35.885,-6.1711 68.2766,22.4268 66.6,58.8 l -27,517.8 z"
     style="fill:#ff0000;fill-opacity:1;stroke-width:4.8" id="path1133" />
