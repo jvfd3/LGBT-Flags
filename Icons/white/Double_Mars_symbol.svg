@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 12 12">
-  <path
-    style="fill:none;stroke:#ffffff;stroke-width:.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-    transform="translate(-1.28 -1.28)"
+  <path fill="none" stroke="#ffffff" stroke-width=".6" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1"
+    stroke-miterlimit="10" stroke-dasharray="none" transform="translate(-1.28 -1.28)"
     d="M7.28 7.22a2.496 2.496 0 0 0-2.5-2.5 2.502 2.502 0 0 0-2.5 2.5c0 3.333 5 3.333 5 0zm.67-4.94h1.77v1.77M6.547 5.452l3.171-3.171m.123 7.5c0-.69-.28-1.315-.733-1.767a2.492 2.492 0 0 0-1.767-.733 2.502 2.502 0 0 0-2.5 2.5c0 1.379 1.12 2.5 2.5 2.5 1.379 0 2.5-1.121 2.5-2.5zm.67-4.94h1.769v1.77M9.109 8.014l3.172-3.172" />
 </svg>

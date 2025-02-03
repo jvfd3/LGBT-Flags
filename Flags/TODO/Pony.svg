@@ -1,78 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg width="690" height="414" xmlns="http://www.w3.org/2000/svg">
-<title>Pony Pride Flag</title>
-<desc>
-This flag design was created by Carrie (MysticStorm) and is
-Copyright 2007.  
-http://sites.google.com/site/2008ipt/flag
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="414">
+  <title>Pony Pride Flag</title>
+  <desc>
+    This flag design was created by Carrie (MysticStorm) and is
+    Copyright 2007.
+    http://sites.google.com/site/2008ipt/flag
 
-This SVG rendering of the design was created by
-Tanos AT tanos.org.uk with kind permission from
-Carrie, and is Copyright 2012.
-http://www.bridgewood.org.uk/ponyplay/flag
+    This SVG rendering of the design was created by
+    Tanos AT tanos.org.uk with kind permission from
+    Carrie, and is Copyright 2012.
+    http://www.bridgewood.org.uk/ponyplay/flag
 
-This SVG image file is licensed under the 
-Creative Commons Attribution 3.0 Unported License
-which allows commercial use and derivative works.
-http://creativecommons.org/licenses/by/3.0/
-</desc>
+    This SVG image file is licensed under the
+    Creative Commons Attribution 3.0 Unported License
+    which allows commercial use and derivative works.
+    http://creativecommons.org/licenses/by/3.0/
+  </desc>
 
-<!-- black background-->
-<rect style="fill:#000000" x="0" y="0" width="690" height="414"/>
+  <rect fill="#000000" x="0" y="0" width="690" height="414" /> <!-- black background-->
+  <rect fill="#FFFFFF" x="0" y="159" width="690" height="96" /> <!-- white band-->
+  <rect fill="#0054A5" x="0" y="183" width="690" height="48" /> <!-- blue band-->
+  <circle fill="#FFFFFF" cx="345" cy="207" r="157" /> <!-- white circle -->
+  <circle fill="#006F3A" cx="345" cy="207" r="147" /> <!-- green circle -->
 
-<!-- white band-->
-<rect style="fill:#FFFFFF" x="0" y="159" width="690" height="96"/>
+  <!-- left horse shoe -->
+  <path fill="#FFFFFF"
+    d="M360 118a4 4 -7.5 1 0 -23.8 3.1a52 75 -7.5 1 1 -64.4 8.5a4 4 -7.5 1 0 -23.8 3.1a72 95 -7.5 1 0 112 -14.7Z" />
 
-<!-- blue band-->
-<rect style="fill:#0054A5" x="0" y="183" width="690" height="48"/>
+  <g stroke="#000000" stroke-width="6" stroke-linecap="round">
+    <!-- holes in left horse shoe -->
+    <path d="M360 118 m-111  51.9 l-0.3 8.0" />
+    <path d="M360 118 m-109  77 l1.7 7.8" />
+    <path d="M360 118 m-103 100 l3.4 7.3" />
+    <path d="M360 118 m-93  121 l5.1 6.1" />
 
-<!-- white circle -->
-<circle cx="345" cy="207" r="157" fill="#FFFFFF"/>
+    <path d="M360 118 m8 36 l3.1 7.4" />
+    <path d="M360 118 m14 61 l0.6 8.0" />
+    <path d="M360 118 m14 86 l-1.4 7.9" />
+    <path d="M360 118 m8 110 l-3.4 7.3" />
+  </g>
 
-<!-- green circle -->
-<circle cx="345" cy="207" r="147" fill="#006F3A"/>
+  <!-- right horse shoe -->
+  <path fill="#FFFFFF"
+    d="M421 157a4 4 -7.5 1 0 -23.8 3.1a52 75 -7.5 1 1 -64.4 8.5a4 4 -7.5 1 0 -23.8 3.1a72 95 -7.5 1 0 112 -14.7Z" />
 
-<!-- left horse shoe -->
-<g fill="#FFFFFF">
-<path d="M360 118  
-         a4 4 -7.5 1 0 -23.8 3.1
-         a52 75 -7.5 1 1 -64.4 8.5
-         a4 4 -7.5 1 0 -23.8 3.1
-         a72 95 -7.5 1 0 112 -14.7
-         Z" />
-</g>
+  <!-- holes in right horse shoe -->
+  <g stroke="#000000" stroke-width="6" stroke-linecap="round">
+    <path d="M421 157 m-111  51.9 l-0.3 8.0" />
+    <path d="M421 157 m-109  77 l1.7 7.8" />
+    <path d="M421 157 m-103 100 l3.4 7.3" />
+    <path d="M421 157 m-93  121 l5.1 6.1" />
 
-<!-- holes in left horse shoe -->
-<path d="M360 118 m-111  51.9 l-0.3 8.0" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m-109  77 l1.7 7.8" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m-103 100 l3.4 7.3" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m-93  121 l5.1 6.1" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-
-<path d="M360 118 m8 36 l3.1 7.4" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m14 61 l0.6 8.0" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m14 86 l-1.4 7.9" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M360 118 m8 110 l-3.4 7.3" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-
-<!-- right horse shoe -->
-<g fill="#FFFFFF">
-<path d="M421 157  
-         a4 4 -7.5 1 0 -23.8 3.1
-         a52 75 -7.5 1 1 -64.4 8.5
-         a4 4 -7.5 1 0 -23.8 3.1
-         a72 95 -7.5 1 0 112 -14.7
-         Z" />
-</g>
-
-<!-- holes in right horse shoe -->
-<path d="M421 157 m-111  51.9 l-0.3 8.0" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m-109  77 l1.7 7.8" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m-103 100 l3.4 7.3" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m-93  121 l5.1 6.1" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-
-<path d="M421 157 m8 36 l3.1 7.4" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m14 61 l0.6 8.0" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m14 86 l-1.4 7.9" stroke-width="6" stroke="#000000" stroke-linecap="round" />
-<path d="M421 157 m8 110 l-3.4 7.3" stroke-width="6" stroke="#000000" stroke-linecap="round" />
+    <path d="M421 157 m8 36 l3.1 7.4" />
+    <path d="M421 157 m14 61 l0.6 8.0" />
+    <path d="M421 157 m14 86 l-1.4 7.9" />
+    <path d="M421 157 m8 110 l-3.4 7.3" />
+  </g>
 
 </svg>
