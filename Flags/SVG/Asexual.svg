@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
-  <path fill="#ffffff" d="M0 0h800v480H0z" />
-  <path fill="#000000" d="M0 0h800v120H0z" />
-  <path fill="#800080" d="M0 360h800v120H0z" />
-  <path fill="#a3a3a3" d="M0 120h800v120H0z" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 480">
+  <path id="stripe" d="M0 0 h800 v120 H0 z" />
+  <use fill="#000000" xlink:href="#stripe" y="0" />
+  <use fill="#a3a3a3" xlink:href="#stripe" y="120" />
+  <use fill="#FFFFFF" xlink:href="#stripe" y="240" />
+  <use fill="#800080" xlink:href="#stripe" y="360" />
 </svg>
