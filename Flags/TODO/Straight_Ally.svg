@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 648 432">
-  <path fill="#ffffff" d="M0 0h648v432H0z" />
+  <path fill="#FFFFFF" d="M0 0h648v432H0z" />
   <path id="a" d="M0 0h648v72H0z" />
   <use y="144" xlink:href="#a" />
   <use y="288" xlink:href="#a" />

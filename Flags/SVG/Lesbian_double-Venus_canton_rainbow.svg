@@ -7,9 +7,9 @@
   <rect fill="#ff8c00" width="600" height="120" />
   <rect fill="#e40303" width="600" height="60" />
   <rect fill="#291c6c" width="240" height="180" />
-  <g fill="none" stroke="#ffffff" stroke-width="10.5">
+  <g fill="none" stroke="#FFFFFF" stroke-width="10.5">
     <circle r="40" cx="91" cy="71" />
     <circle r="40" cx="149" cy="71" />
-    <path d="M91,159V111M149,159V111M69.5,137.5h43M127.5,137.5h43" />
+    <path d="M91 159V111M149 159V111M69.5 137.5h43M127.5 137.5h43" />
   </g>
 </svg>
