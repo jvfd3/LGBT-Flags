@@ -1,4 +1,88 @@
-# [Someone from Reddit](https://www.reddit.com/r/QueerVexillology/comments/glt2us/im_trying_to_make_a_masterlist_of_pride_flags/)
+# Lists
+
+## Wiki [[Romantic][WikiRomantic]] [[Sexual][WikiSexual]] [[Gender][WikiGender]]
+
+[WikiRomantic]: https://lgbtqia.fandom.com/wiki/Romantic_orientation
+[WikiSexual]: https://lgbtqia.fandom.com/wiki/Sexual_orientation
+[WikiGender]: https://lgbtqia.fandom
+
+- Romantic Orientations
+  - Aromantic
+    - Aroflux
+    - Aegoromantic
+    - Apothiromantic
+    - Autoromantic
+    - Bellusromantic
+    - Cupioromantic
+    - Desinoromantic
+    - Frayromantic
+    - Grayromantic
+    - Lithromantic
+    - Quoiromantic
+    - Recipromantic
+    - Nebularomantic
+    - Demiromantic
+  - Abroromantic
+  - Alloromantic
+  - Monoromantic
+    - Androromantic
+    - Ceteroromantic
+    - Gyneromantic
+    - Heteroromantic
+    - Homoromantic
+  - Multiromantic
+    - Biromantic
+    - Omniromantic
+    - Panromantic
+    - Polyromantic
+- Sexual Orientations
+  - Abrosexual
+  - Asexual
+    - Aceflux
+    - Aegosexual
+    - Apothisexual
+    - Autosexual
+    - Cupiosexual
+    - Fraysexual
+    - Lithosexual
+    - Greysexual
+    - Demisexual
+    - Wolandsexual
+    - Requiesexual
+    - Fictosexual
+    - Demiasexual
+  - Allosexual
+  - Queer
+  - Zedsexual
+  - Monosexual
+    - Achillean
+    - Androsexual
+    - Ceterosexual
+    - Gynesexual
+    - Heterosexual
+    - Homosexual
+      - Gay
+      - Lesbian
+    - Sapphic
+  - Multisexual
+    - Bisexual
+    - Omnisexual
+    - Pansexual
+    - Polysexual
+- Gender Identities
+  - Agender
+  - Bigender
+  - Demigender
+  - Genderfluid
+  - Genderqueer
+  - Neurogender
+  - Neutrois
+  - Non-binary
+  - Pangender
+  - Queer
+  - Xenogender
+
+## [Someone from Reddit](https://www.reddit.com/r/QueerVexillology/comments/glt2us/im_trying_to_make_a_masterlist_of_pride_flags/)
 
 1. *Gay/Queer:* (Also called Rainbow) Flag that can be used for either gay people exclusively or for the whole community.
 2. *Gay:* Attracted to the same and similar genders. Homosexual.
