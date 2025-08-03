@@ -69,3 +69,17 @@
 | Two Spirit                                              |      | ![X](./Flags/SVG/Two-Spirit.svg)                          |                                   |    6    |
 | Vincian                                                 |      | ![X](./Flags/SVG/Vincian_Original.svg)                    |                                   |    7    |
 | Vincian [PNG]                                           |      | ![X](./Flags/not_SVG/Vincian.png)                         |                                   |    5    |
+
+Orbisian
+enbian
+Trixic
+Quadrisian
+feminamoric
+Toric
+Nonbinary-specific orientation flags!
+
+Toric: Enby attracted to men and man-aligned folks.
+Trixic: Enby attracted to women and woman-aligned folks.
+Tiric: Enby attracted to both.
+Torensexual: Men and man-aligned folks attracted to enbies.
+Trixensexual: Women and woman-aligne folks attracted to enbies.
