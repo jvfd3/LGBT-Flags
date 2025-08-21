@@ -6,7 +6,7 @@
 [WikiSexual]: https://lgbtqia.fandom.com/wiki/Sexual_orientation
 [WikiGender]: https://lgbtqia.fandom
 
-1. Romantic Orientations
+1. [Romantic Orientations][WikiRomantic]
    1. Aromantic
       1. Aroflux
       2. Aegoromantic
@@ -35,7 +35,7 @@
       2. Omniromantic
       3. Panromantic
       4. Polyromantic
-2. Sexual Orientations
+2. [Sexual Orientations][WikiSexual]
    1. Abrosexual
    2. Asexual
       1. Aceflux
@@ -69,7 +69,7 @@
       2. Omnisexual
       3. Pansexual
       4. Polysexual
-3. Gender Identities
+3. [Gender Identities][WikiGender]
    1. Agender
    2. Bigender
    3. Demigender

@@ -83,3 +83,6 @@ Trixic: Enby attracted to women and woman-aligned folks.
 Tiric: Enby attracted to both.
 Torensexual: Men and man-aligned folks attracted to enbies.
 Trixensexual: Women and woman-aligne folks attracted to enbies.
+
+- [More on here Later](https://lgbtqia.fandom.com/wiki/Category:Flags)
+- [Also Here](https://commons.wikimedia.org/wiki/Category:LGBT_orientation_flags)
