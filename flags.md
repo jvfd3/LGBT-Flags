@@ -22,7 +22,10 @@
 |                                         | Quadrisian                                              |      |                                                                  |                                   |         |
 |                                         | Queer                                                   |      | ![X](./Flags/SVG/ToSort/Queer.svg)                               |                                   |    9    |
 |                                         | Sapphic                                                 | 2015 | ![X](./Flags/SVG/ToSort/Sapphic.svg)                             |                                   |    3    |
+|                                         | Tiric                                                   |      |                                                                  |                                   |         |
+|                                         | Torensexual                                             |      |                                                                  |                                   |         |
 |                                         | Toric                                                   |      | ![X](./Flags/TODO/Toric.png)                                     |                                   |    5    |
+|                                         | Trixensexual                                            |      |                                                                  |                                   |         |
 |                                         | Trixic                                                  |      | ![X](./Flags/TODO/Trixic.png)                                    |                                   |    5    |
 |                                         | Twink                                                   | 2009 | ![X](./Flags/SVG/ToSort/Twink.svg)                               |                                   |    3    |
 |                                         | Two Spirit                                              |      | ![X](./Flags/SVG/ToSort/Two-Spirit.svg)                          |                                   |    6    |
@@ -135,12 +138,6 @@
 | Sexual: Multisexual                     | Polysexual                                              |      |                                                                  |                                   |         |
 
 Nonbinary-specific orientation flags!
-
-Toric: Enby attracted to men and man-aligned folks.
-Trixic: Enby attracted to women and woman-aligned folks.
-Tiric: Enby attracted to both.
-Torensexual: Men and man-aligned folks attracted to enbies.
-Trixensexual: Women and woman-aligne folks attracted to enbies.
 
 - [More on here Later](https://lgbtqia.fandom.com/wiki/Category:Flags)
 - [Also Here](https://commons.wikimedia.org/wiki/Category:LGBT_orientation_flags)
